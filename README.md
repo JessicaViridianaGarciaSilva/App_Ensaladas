@@ -2,7 +2,7 @@
 
 ### Breve introducción: 
 
-Bueno, para esté proyecto se realizaron 3 aplicaciones que pudieran ser útiles para un negocio de ensaladas, donde en la primera aplicación el objetivo es el poder optimizar el proceso del mesero al tomar la orden del cliente y mandar la orden al chef. La segunda aplicación es dirigida al chef, ya que por medio de está va a poder visualizar los pedidos que se van enviando por parte del mesero y así mismo cada que el chef termine la preparación de un pedido, puede irla descartando de su lista de pendientes y de la lista de pendientes del mesero. La tercera aplicación está dirigido al área administrativo, en el cual, se va a poder visualizar completamente cada pedido realizado ordenándolo de manera cronológica, basándose en el horario en que se realizo el pedido.
+Bueno, para esté proyecto se realizaron 3 aplicaciones útiles para un negocio de ensaladas, en la primera aplicación el objetivo es el poder optimizar el proceso del mesero al tomar la orden del cliente y mandar la orden al chef. La segunda aplicación es dirigida al chef, ya que por medio de está se va poder visualizar los pedidos que se van enviando por parte del mesero y así mismo cada que el chef termine la preparación de un pedido puede irla descartando de su lista de pendientes y de la lista de pendientes del mesero. La tercera aplicación está dirigido al área administrativo, en el cual, se va a poder visualizar completamente cada pedido realizado ordenándolo de manera cronológica, basándose en el horario en que se realizo el pedido.
 
 <p align="center">
   <img src="https://i.postimg.cc/J4TcVYpT/icono.png" alt="Imagen 1" width="200"/>
@@ -12,8 +12,9 @@ Bueno, para esté proyecto se realizaron 3 aplicaciones que pudieran ser útiles
 
 ### Aplicación del mesero ✍️💁‍♂️:
 
-En este caso, esta es la primera interfaz de la aplicación móvil del mesero. Como podemos ver aquí se encuentran los pedidos pendientes, donde podemos ver el nombre del cliente, la hora, las notas extras del pedido, la descripción del pedido y el total.
- También se encuentra debajo un botón el cual nos llevara a la siguiente interfaz donde podremos elegir los productos solicitados del pedido, podemos ver que hay dos botones uno para cancelar el pedido en caso de que ya no se desee realizar y otro para continuar con el proceso del pedido. 
+En este caso, esta es la primera interfaz de la aplicación móvil del mesero. Como podemos ver aquí se encuentran los pedidos pendientes, donde podemos 
+ver el nombre del cliente, la hora, las notas extras del pedido, la descripción del pedido y el total.
+También se encuentra debajo un botón el cual nos llevara a la siguiente interfaz donde vamos a poder elegir los productos solicitados por el cliente, se puede ver que hay dos botones uno para cancelar el pedido en caso de que ya no se desee realizar y otro para continuar con el proceso del pedido. 
 
 <p align="center">
   <img src="https://i.postimg.cc/y6mv5Pq5/uno-mesero.jpg" alt="Imagen 1" width="200"/>
